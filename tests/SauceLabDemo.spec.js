@@ -91,9 +91,3 @@ test.only('home page fetch test', async ({ page }) => {
 
 });
 
-
-test('sdsd' , async ({page}) =>{
-
-    
-
-})
